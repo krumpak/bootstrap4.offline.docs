@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.getbootstrap.com	TRUE	/	FALSE	1999999999	__cfduid	d7e630c9647f016ba73ce1125ad26558c1461770077
+themes.getbootstrap.com	TRUE	/	FALSE	1999999999	_session_id	93803d6ab466bcd1d0b8a49806acce86
+themes.getbootstrap.com	TRUE	/	FALSE	1999999999	_orig_referrer	http%3A%2F%2Fv4-alpha.getbootstrap.com%2F
+themes.getbootstrap.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+themes.getbootstrap.com	TRUE	/	FALSE	1999999999	cart	1d693e0670df7034aa69831497d3a0ec
+.creativecommons.org	TRUE	/	FALSE	1999999999	__cfduid	d35884a491d846880879be51eb70f94951461783993
+badge.fury.io	TRUE	/	FALSE	1999999999	_session_uuid	54c00ac5-f50c-497f-94ed-211d1cc44f99
+twitter.com	TRUE	/	FALSE	1999999999	external_referer	Bm9gjDJKLkMuFZVR4Hji/N0zESf9S8CZzqGql+l0X4HPP7gNDQBSyQ==|0"
+.licensebuttons.net	TRUE	/	FALSE	1999999999	__cfduid	dc1e58301b6c73f3fa6c888de5adb14051461839452
+twitter.com	TRUE	/	FALSE	1999999999	lang	ko
+.twitter.com	TRUE	/	FALSE	1999999999	fm	0
+.twitter.com	TRUE	/	FALSE	1999999999	_twitter_sess	BAh7CSIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo%250ASGFzaHsABjoKQHVzZWR7ADoPY3JlYXRlZF9hdGwrCGfDpFxUAToMY3NyZl9p%250AZCIlYTRhODIyYWNiNzM2MDBmNWRkZGU0YWViNDFjYWM0ZTE6B2lkIiU4ODkw%250AMGQ5Y2RhYTVkNGExMGQwYTcyNjM3NzFjZjBiNg%253D%253D--5258c5a931cf4d6b7aac9b08825891575b1baea5
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A146184318243647418
+.hsto.org	TRUE	/	FALSE	1999999999	__cfduid	d60e89fa34ebd7eaa8dba531d227621681461844994
+.github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	eyJzZXNzaW9uX2lkIjoiMWYyMDkyYjVhYmY5ZDVlN2Y5NmRlZmNiNTg0ZDMyYjQiLCJyZWZlcnJhbF9jb2RlIjoiaHR0cDovL3Y0LWFscGhhLmdldGJvb3RzdHJhcC5jb20vIiwic3B5X3JlcG8iOiJ0d2JzL2Jvb3RzdHJhcCIsInNweV9yZXBvX2F0IjoxNDYxODQ3NTE2LCJfY3NyZl90b2tlbiI6IkhzaVphM3FOTmpOUEx1OU1WY00zZ1FGREQzVVpDVTBERmw4YVVYOVAwN3c9IiwicmV0dXJuX3RvIjoiaHR0cHM6Ly9naXRodWIuY29tL3R3YnMvYm9vdHN0cmFwL3B1bGwvbmV3L2pzL3Rlc3RzL3VuaXQvY29sbGFwc2UuanMifQ%3D%3D--aff6cceb3dac9209a2d3738bc5eda77f7b4493ac
+
